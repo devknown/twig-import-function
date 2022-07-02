@@ -1,0 +1,9 @@
+<div>
+    Hi, I am unique: <b>{{ uniqid() }}</b>.
+    <br/> 
+    {{ my_custom_function('Devknown') }}
+    <br/>
+    {% if file_exists('./examples/file.txt') %}
+       . <b>the file exists.</b>
+    {% endif %}
+</div>
