@@ -1,8 +1,6 @@
 # Twig v3 Import Function 
 
 [![Build Status](https://github.com/devknown/twig-import-function/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/devknown/twig-import-function/actions?query=branch%3Amain)
-[![Latest Stable Version](https://poser.pugx.org/devknown/twig-import-function/v/stable.svg)](https://packagist.org/packages/devknown/twig-import-function)
-[![Total Downloads](https://poser.pugx.org/devknown/twig-import-function/downloads.svg)](https://packagist.org/packages/devknown/twig-import-function)
 [![License](https://poser.pugx.org/devknown/twig-import-function/license.svg)](https://packagist.org/packages/devknown/twig-import-function)
 
 Call (almost) any PHP function from your Twig (v3) templates.
