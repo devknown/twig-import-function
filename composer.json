@@ -3,6 +3,7 @@
     "type": "library",
     "description": "Call (almost) any PHP function from your Twig (v3) templates.",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Hassan Azzi",
