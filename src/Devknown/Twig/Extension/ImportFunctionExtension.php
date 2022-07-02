@@ -58,7 +58,7 @@ class ImportFunctionExtension extends \Twig\Extension\AbstractExtension
     }
 
     /**
-     * Import fundtions
+     * Import
      *
      * @param  string|array $functions
      * @return void
